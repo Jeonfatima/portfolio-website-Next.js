@@ -7,7 +7,7 @@ import Contact from "@/components/Contact";
 import About from "@/components/About";
 import AOS from "aos"
 import "aos/dist/aos.css";
-import { use, useEffect } from "react";
+import {  useEffect } from "react";
 
 
 
